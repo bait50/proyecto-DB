@@ -20,6 +20,6 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-SELECT editar_producto(, 'Producto Editado', 150, 19.99, 'A', 1, 2998.50);
+SELECT editar_producto(1, 'Producto Editado', 150, 19.99, 'A', 1, 2998.50);
 
 select * from public.productos p ;
