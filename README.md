@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=Jrn0HrFJV5c
+
 en este enlace de youtube estara el video de la sustentacion del proyecto final de base de datos 2.
 
 ![Imagen de WhatsApp 2025-01-25 a las 11 16 58_048fe8ab](https://github.com/user-attachments/assets/a4fe9672-d3d6-4d7e-9d0e-ed3b07dc2e58)
